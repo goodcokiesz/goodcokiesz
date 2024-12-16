@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @goodcokiesz
+- 👀 I’m interested in crypto, decentralized finance, and exploring the metaverse.  
+- 🌱 I’m currently learning Rust and how to build on the Solana blockchain.  
+- 💞️ I’m looking to collaborate on projects that bridge Web3 with real-world applications.  
+- 📫 How to reach me:
+- 😄 Pronouns: he  
+- ⚡ Fun fact: I once explained blockchain to my grandma, and now she owns Ethereum!
